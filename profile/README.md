@@ -1,5 +1,5 @@
 [![](https://img.shields.io/badge/made%20by-3um%20Group-cyan.svg?style=flat-square)](https://3umgroup.com)
-[![](https://img.shields.io/badge/slack-%23daplanet-cyan.svg?style=flat-square)](https://app.slack.com/client/T067JH83HEG/C067G403M9Q)
+[![](https://img.shields.io/badge/slack-%23development-coordanation-cyan.svg?style=flat-square)](https://app.slack.com/client/T067JH83HEG/C067G403M9Q)
 
 > Project Management
 
